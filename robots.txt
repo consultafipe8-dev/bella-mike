@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://consultafipe8-dev.github.io/bella-mike/sitemap.xml
