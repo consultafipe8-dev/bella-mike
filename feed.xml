@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nexus Authority Backlink Indexer Hub</title>
+    <link>https://consultafipe8-dev.github.io/bella-mike/spider-hub.html</link>
+    <description>High-speed search engine crawler hub and canonical citation index.</description>
+    <lastBuildDate>Mon, 09 Nov 2026 06:59:09 GMT</lastBuildDate>
+    <atom:link href="https://consultafipe8-dev.github.io/bella-mike/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resource Reference Index #1</title>
+      <link>https://souzin-mike.web.app/</link>
+      <guid isPermaLink="true">https://souzin-mike.web.app/</guid>
+      <pubDate>Mon, 09 Nov 2026 06:59:09 GMT</pubDate>
+      <description>Verified external authority citation and fiscal compliance indexation signal.</description>
+    </item>
+    <item>
+      <title>Resource Reference Index #2</title>
+      <link>https://consultafipe8-dev.github.io/bella-mike/</link>
+      <guid isPermaLink="true">https://consultafipe8-dev.github.io/bella-mike/</guid>
+      <pubDate>Mon, 09 Nov 2026 06:59:09 GMT</pubDate>
+      <description>Verified external authority citation and fiscal compliance indexation signal.</description>
+    </item>
+  </channel>
+</rss>
